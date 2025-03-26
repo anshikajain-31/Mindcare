@@ -1,0 +1,9 @@
+transformers
+bitsandbytes
+torch
+tensorflow
+keras
+langchain
+astra-db
+llama-index
+sentence-transformers
